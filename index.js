@@ -1,3 +1,4 @@
+//xoteam edit
 require("dotenv").config();//Loading .env
 const fs = require("fs");
 const { Collection, Client } = require("discord.js");
